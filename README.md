@@ -27,10 +27,6 @@
 💡 **¿Lo necesitas?**  
 Si trabajas con **JavaScript/TypeScript** en el frontend, **Node.js** es una opción natural para el backend porque puedes compartir código y usar el mismo lenguaje en toda la app.
 
-## Non-Blocking I/O
-
-<img  src="./docs/images/03-node.png" />
-
 ## Que es un entorno de ejecución de JavaScript en el servidor?
 
 Un **entorno de ejecución de JavaScript en el servidor** es un programa que permite ejecutar código JavaScript **fuera del navegador**.
@@ -158,6 +154,12 @@ console.log(data); // Solo se ejecuta después de leer el archivo.
 ## **⚡ 2. ¿Qué es Non-Blocking?**
 
 En una operación **non-blocking**, el programa **no espera** a que la tarea termine. En su lugar, sigue ejecutando otras instrucciones y, cuando la tarea asíncrona se completa, ejecuta una función de callback.
+
+<img  src="./docs/images/03-node.png" />
+
+<img  src="./docs/images/04-node.png" />
+
+<img  src="./docs/images/05-node.png" />
 
 ### **Ejemplo en JavaScript (Asíncrono / Non-Blocking)**
 
