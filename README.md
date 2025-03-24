@@ -161,6 +161,8 @@ En una operación **non-blocking**, el programa **no espera** a que la tarea ter
 
 <img  src="./docs/images/05-node.png" />
 
+[Documentación](https://nodejs.org/en/learn/asynchronous-work/overview-of-blocking-vs-non-blocking)
+
 ### **Ejemplo en JavaScript (Asíncrono / Non-Blocking)**
 
 ```js
